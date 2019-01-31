@@ -1,0 +1,10 @@
+baseURL = "https://derreineke.com/"
+languageCode = "en-us"
+title = "derreineke@meatspace"
+theme = "hugo-base16-theme"
+
+[menu]
+    [[menu.main]]
+        name = "posts"
+        indentifier = "posts"
+        url = "/posts"
