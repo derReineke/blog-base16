@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>derreineke@meatspace</title>
-    <link>https://derreineke.com/</link>
+    <link>https://blog.derreineke.com/</link>
     <description>Recent content on derreineke@meatspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jan 2019 19:08:45 -0500</lastBuildDate>
+    <copyright>Reineke Fuchs</copyright>
+    <lastBuildDate>Wed, 06 Feb 2019 19:43:32 -0500</lastBuildDate>
     
-	<atom:link href="https://derreineke.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.derreineke.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test Post</title>
-      <link>https://derreineke.com/post/testpost/</link>
-      <pubDate>Wed, 30 Jan 2019 19:08:45 -0500</pubDate>
+      <title>Welcome</title>
+      <link>https://blog.derreineke.com/post/welcome/</link>
+      <pubDate>Wed, 06 Feb 2019 19:43:32 -0500</pubDate>
       
-      <guid>https://derreineke.com/post/testpost/</guid>
-      <description> This is a test post. Does it need more?
- Code Test!
-def test_code(): print(&amp;quot;Test complete, yay!!&amp;quot;)   </description>
+      <guid>https://blog.derreineke.com/post/welcome/</guid>
+      <description>Welcome to my new blog! Isn&amp;rsquo;t this exciting that I am finally starting to write in one? This is the blog section for my main portfolio page, Main Page. I love that page so much and I really think you should check it out if you haven&amp;rsquo;t. I followed a Brutalist Design for it.
+What will this blog contain you may be asking yourself as you read this on a screen, maybe a small phone screen or even a larger monitor.</description>
     </item>
     
   </channel>
