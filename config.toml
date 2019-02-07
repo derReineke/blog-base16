@@ -1,7 +1,10 @@
-baseURL = "https://derreineke.com/"
+baseURL = "https://blog.derreineke.com/"
 languageCode = "en-us"
 title = "derreineke@meatspace"
 theme = "hugo-base16-theme"
+copyright = "Reineke Fuchs"
+
+pygmentsuseclasses = true
 
 [menu]
     [[menu.main]]
